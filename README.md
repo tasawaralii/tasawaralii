@@ -27,8 +27,8 @@ An IoT system for centralized control of departmental appliances.
 
 
 ## 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/tasawar-ali-a7299b341(#)
 
+* **LinkedIn:** [linkedin.com/in/tasawaralii](https://www.linkedin.com/in/tasawaralii)
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tasawaralii&show_icons=true&theme=radical" alt="Tasawar's GitHub Stats" />
