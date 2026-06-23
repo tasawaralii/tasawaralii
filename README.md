@@ -1,9 +1,8 @@
 # Hi there, I'm Tasawar Ali 👋
 
-I'm a Full-Stack Developer and Computer Science undergraduate at UET Lahore. I specialize in building secure, scalable applications across the web and IoT ecosystems, with a strong focus on Python frameworks, React, and cybersecurity. 
+I'm a Full-Stack Developer. I specialize in building secure, scalable applications across the web and IoT ecosystems, with a strong focus on Python frameworks, React, and cybersecurity. 
 
 ## 🚀 About Me
-- 🎓 CS Undergrad at **University of Engineering and Technology (UET) Lahore**
 - 🛡️ Passionate about Information Security, network defense, and AI-assisted development
 - ⚡ In my free time, I'm usually exploring FastAPI, Docker, and building secure extensions.
 
